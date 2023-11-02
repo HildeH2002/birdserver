@@ -8,11 +8,11 @@
       "scanned": false
     },
     {
+      "id": 2,
       "name": "roodborstlijster",
       "scientificName": "Turdus migratorius",
       "info": "Roodborstlijsters staan erom bekend dat ze in groepen van honderdduizend of meer vogels de nacht doorbrengen.",
-      "scanned": true,
-      "id": 2
+      "scanned": true
     },
     {
       "id": 3,
