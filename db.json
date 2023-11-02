@@ -1,0 +1,70 @@
+{
+  "bird": [
+    {
+      "id": 1,
+      "name": "breedvleugelbuizerd",
+      "scientificName": "Buteo platypterus",
+      "info": "Deze buizerd is tijdens migratie vaker te zien dan als hij zich in het bos bevindt.",
+      "scanned": true
+    },
+    {
+      "name": "roodborstlijster",
+      "scientificName": "Turdus migratorius",
+      "info": "Roodborstlijsters staan erom bekend dat ze in groepen van honderdduizend of meer vogels de nacht doorbrengen.",
+      "scanned": true,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "holenuil",
+      "scientificName": "Athene cunicularia",
+      "info": "Deze uilen gebruiken vaak de holen van prairiehonden voor hun ondergrondse nesten.",
+      "scanned": true
+    },
+    {
+      "id": 4,
+      "name": "treurduif",
+      "scientificName": "Zenaida macroura",
+      "info": "Eén paar duiven kan in een jaar 5 of 6 nakomelingen voortbrengen.",
+      "scanned": false
+    },
+    {
+      "id": 5,
+      "name": "raaf",
+      "scientificName": "Corvus corax",
+      "info": "Raven zijn alleseters. Hun dieet bestaat uit onder meer insecten, knaagdieren, eieren, vogels en kadavers.",
+      "scanned": false
+    }
+  ],
+  "habitat": [
+    {
+      "id": 1,
+      "name": "bos"
+    },
+    {
+      "id": 2,
+      "name": "weide"
+    },
+    {
+      "id": 3,
+      "name": "moeras"
+    }
+  ],
+  "played": [
+    {
+      "id": 1,
+      "birdId": 1,
+      "habitatId": 1
+    },
+    {
+      "id": 2,
+      "birdId": 2,
+      "habitatId": 2
+    },
+    {
+      "id": 2,
+      "birdId": 2,
+      "habitatId": 1
+    }
+  ]
+}
